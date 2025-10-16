@@ -25,4 +25,4 @@
 
 ---
 
-✨ “Learn constantly, secure boldly, and build with purpose.”
+✨ _“Learn constantly, secure boldly, and build with purpose.”_
