@@ -12,11 +12,34 @@
 📚 I’m currently looking for a **6-month final-year internship** starting **March 2026**, in **cybersecurity**, **Cloud Computing** or **DevSecOps**.
 
 ---
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-| Languages | Tools & Frameworks | Security & Cloud |
-|------------|--------------------|------------------|
-| Python · Java · C/C++ | Flask · Node.js · HTML/CSS/JS | Microsoft Sentinel · Docker · Nmap · OWASP ZAP · Fortinet |
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="./logos/python.png" alt="Python" width="45" height="45"/>
+  <img src="./logos/java.png" alt="Java" width="45" height="45"/>
+  <img src="./logos/cpp.png" alt="C/C++" width="45" height="45"/>
+  <img src="./logos/javascript.png" alt="JavaScript" width="45" height="45"/>
+  <img src="./logos/html5.png" alt="HTML5" width="45" height="45"/>
+  <img src="./logos/css3.png" alt="CSS3" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <!-- Frameworks & Tools -->
+  <img src="./logos/flask.png" alt="Flask" width="45" height="45"/>
+  <img src="./logos/nodejs.png" alt="Node.js" width="45" height="45"/>
+  <img src="./logos/docker.png" alt="Docker" width="45" height="45"/>
+  <img src="./logos/nginx.png" alt="NGINX" width="45" height="45"/>
+  <img src="./logos/git.png" alt="Git" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <!-- Security & Cloud -->
+  <img src="./logos/microsoft-sentinel.png" alt="Microsoft Sentinel" width="45" height="45"/>
+  <img src="./logos/fortinet.png" alt="Fortinet" width="45" height="45"/>
+  <img src="./logos/nmap.png" alt="Nmap" width="45" height="45"/>
+  <img src="./logos/owasp.png" alt="OWASP ZAP" width="45" height="45"/>
+</p>
 
 ---
 
