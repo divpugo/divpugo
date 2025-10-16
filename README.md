@@ -42,8 +42,8 @@
 </p>
 
 ---
+## 🌐 Connect with me
 
-### 🌐 Connect with me
 📧 [Mail](mailto:divya.pugo@gmail.com)  🔗 [LinkedIn](https://www.linkedin.com/in/divya-pugo-985691194/)  💻 [GitHub](https://github.com/divpugo)
 
 ---
