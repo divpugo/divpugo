@@ -21,10 +21,8 @@
 ---
 
 ### 🌐 Connect with me
-📧 [divya.pugo@gmail.com](mailto:divya.pugo@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/divya-pugo-985691194/)  
-💻 [GitHub](https://github.com/divpugo)
+📧 [Mail](mailto:divya.pugo@gmail.com)  🔗 [LinkedIn](https://www.linkedin.com/in/divya-pugo-985691194/)  💻 [GitHub](https://github.com/divpugo)
 
 ---
 
-> “Learn constantly, secure boldly, and build with purpose.”
+✨ “Learn constantly, secure boldly, and build with purpose.”
