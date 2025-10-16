@@ -14,6 +14,7 @@
 ---
 ## 🛠️ Tech Stack
 
+<h4 align="center">Programming Languages</h4>
 <p align="center">
   <!-- Programming Languages -->
   <img src="./logos/python.png" alt="Python" width="45" height="45"/>
@@ -24,6 +25,8 @@
   <img src="./logos/css3.png" alt="CSS3" width="45" height="45"/>
 </p>
 
+<h4 align="center">Frameworks & Tools</h4>
+
 <p align="center">
   <!-- Frameworks & Tools -->
   <img src="./logos/flask.png" alt="Flask" width="45" height="45"/>
@@ -32,6 +35,8 @@
   <img src="./logos/nginx.png" alt="NGINX" width="45" height="45"/>
   <img src="./logos/git.png" alt="Git" width="45" height="45"/>
 </p>
+
+<h4 align="center">Security & Cloud</h4>
 
 <p align="center">
   <!-- Security & Cloud -->
